@@ -25,7 +25,7 @@ body {
     font-family: 'Anton', sans-serif;
     font-size: 50px;
     transform: skewY(-5deg);
-    margin-bottom: 0;
+    margin-bottom: 3;
 }
 
 .principal .content .carr {
@@ -80,4 +80,94 @@ body {
     font-size: large;
     text-align: justify;
     line-height: 1.5;
+}
+
+.school {
+    width: 90%;
+    height: auto;
+    background: #79CCDB;
+    margin:5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.school .academic {
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+
+}
+
+.school .prim{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    font-style: italic;
+    display: inline;
+    margin-right: 5px;
+}
+
+.school .infoprim{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+
+.school .sec{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    font-style: italic;
+    display: inline;
+    margin-right: 5px;
+}
+
+.school .infosec{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+
+.school .med{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    font-style: italic;
+    display: inline;
+    margin-right: 5px;
+}
+
+.school .infomed{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+
+.school .sup{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    font-style: italic;
+    display: inline;
+    margin-right: 5px;
+}
+
+.school .infosup{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
 }
