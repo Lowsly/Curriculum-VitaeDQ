@@ -171,3 +171,78 @@ body {
     font-size: medium;
     display: inline;
 }
+
+.experience {
+    width: 90%;
+    height: auto;
+    background: #79CCDB;
+    margin:5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.experience .exptitle{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.experience .expedi{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 5px;
+}
+
+.experience .infedi{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    line-height: 1.5;
+}
+
+.experience .expinst{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 5px;
+}
+
+.experience .infinst{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    line-height: 1.5;
+}
+
+.language {
+    width: 90%;
+    height: auto;
+    background: #79CCDB;
+    margin:5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.language .langtitle{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.language .langinf{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+}
