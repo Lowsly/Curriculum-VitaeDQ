@@ -66,7 +66,7 @@ body {
 
 .inf .aboutme {
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
@@ -92,7 +92,7 @@ body {
 }
 .school .academic {
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
@@ -102,7 +102,7 @@ body {
 
 .school .prim{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     font-style: italic;
@@ -112,15 +112,15 @@ body {
 
 .school .infoprim{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     display: inline;
 }
 
 .school .sec{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     font-style: italic;
@@ -130,15 +130,15 @@ body {
 
 .school .infosec{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     display: inline;
 }
 
 .school .med{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     font-style: italic;
@@ -148,15 +148,15 @@ body {
 
 .school .infomed{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     display: inline;
 }
 
 .school .sup{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     font-style: italic;
@@ -166,9 +166,9 @@ body {
 
 .school .infosup{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     display: inline;
 }
 
@@ -183,7 +183,7 @@ body {
 
 .experience .exptitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
@@ -192,7 +192,7 @@ body {
 
 .experience .expedi{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     margin-right: 5px;
@@ -200,15 +200,15 @@ body {
 
 .experience .infedi{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     line-height: 1.5;
 }
 
 .experience .expinst{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     margin-right: 5px;
@@ -216,9 +216,9 @@ body {
 
 .experience .infinst{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     line-height: 1.5;
 }
 
@@ -233,7 +233,7 @@ body {
 
 .language .langtitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
@@ -242,9 +242,9 @@ body {
 
 .language .langinf{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
 }
 
 .habcom {
@@ -258,7 +258,7 @@ body {
 
 .habcom .hatitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
@@ -267,7 +267,7 @@ body {
 
 .habcom .restitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     margin-right: 1px;
@@ -275,15 +275,15 @@ body {
 
 .habcom .infres{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     line-height: 1.5;
 }
 
 .habcom .colabtitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     margin-right: 1px;
@@ -291,15 +291,15 @@ body {
 
 .habcom .infcolab{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     line-height: 1.5;
 }
 
 .habcom .comtitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     margin-right: 1px;
@@ -307,9 +307,9 @@ body {
 
 .habcom .infcom{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-weight: normal;
-    font-size: medium;
+    font-size: large;
     line-height: 1.5;
 }
 
@@ -324,16 +324,24 @@ body {
 
 .port .porttitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
     border-bottom: 3px #FFFFFF dotted;
 }
 
-.port .skillstitle{
+.port .modeladotitle{
     color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 1px;
+}
+
+.port .destitle{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
     font-weight: bolder;
     font-size: large;
     margin-right: 1px;
