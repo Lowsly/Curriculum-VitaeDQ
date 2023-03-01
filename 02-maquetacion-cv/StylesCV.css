@@ -347,6 +347,13 @@ body {
     margin-right: 1px;
 }
 
+.port .photitle{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 1px;
+}
 .piepa{
     width: 100%;
     background-color: #0a141d;
