@@ -57,37 +57,6 @@ body {
     margin: auto;
 }
 
-.flower {
-    width: 90%;
-    height: auto;
-    background: #83dcfd;
-    margin:2% auto;
-    padding: 20px;
-    border-radius: 20px;
-}
-
-.flower .flowtitle{
-    color: #000000;
-    font-family: 'Bebas Neue', cursive;
-    font-size: xx-large;
-    text-align: center;
-    font-weight: bold;
-    border-bottom: 3px #FFFFFF dotted;
-}
-
-.flower .flowinf{
-    color: #000000;
-    font-family: 'Jost', sans-serif;
-    font-weight: normal;
-    font-size: large;
-    text-align: center;
-}
-.flower .box figure img{
-    width: 500px;
-    display: block;
-    margin: auto;
-}
-
 .icecream {
     width: 90%;
     height: auto;

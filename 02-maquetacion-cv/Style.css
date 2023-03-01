@@ -120,37 +120,6 @@ body {
     margin: auto;
 }
 
-.shark {
-    width: 90%;
-    height: auto;
-    background: #feee5d;
-    margin:2% auto;
-    padding: 20px;
-    border-radius: 20px;
-}
-
-.shark .sharktitle{
-    color: #000000;
-    font-family: 'Bebas Neue', cursive;
-    font-size: xx-large;
-    text-align: center;
-    font-weight: bold;
-    border-bottom: 3px #FFFFFF dotted;
-}
-
-.shark .sharkinf{
-    color: #000000;
-    font-family: 'Jost', sans-serif;
-    font-weight: normal;
-    font-size: large;
-    text-align: center;
-}
-.shark .box figure img{
-    width: 500px;
-    display: block;
-    margin: auto;
-}
-
 .isometric {
     width: 90%;
     height: auto;
