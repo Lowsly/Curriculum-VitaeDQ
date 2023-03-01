@@ -3,3 +3,26 @@ body {
     padding:0;
     background: #CAF0F8 ;
 }
+
+.content  {
+    margin:0;
+    padding:0;
+    background: #CAF0F8 ;
+}
+
+.content .name {
+    color: black;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    margin-bottom: 3;
+    text-align: center;
+}
+
+.circular-progress{
+    width: 12rem;
+    height: 12rem;
+    background: red;
+    border-radius: 50%;
+    margin: auto;
+
+}
