@@ -222,6 +222,22 @@ body {
     line-height: 1.5;
 }
 
+.experience .expofi{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 5px;
+}
+
+.experience .infofi{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    line-height: 1.5;
+}
+
 .language {
     width: 90%;
     height: auto;
@@ -258,7 +274,7 @@ body {
 
 .habcom .hatitle{
     color: #000000;
-    font-family: 'Jost', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
@@ -348,6 +364,22 @@ body {
 }
 
 .port .photitle{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 1px;
+}
+
+.port .dibutitle{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 1px;
+}
+
+.port .progtitle{
     color: #000000;
     font-family: 'Jost', sans-serif;
     font-weight: bolder;
